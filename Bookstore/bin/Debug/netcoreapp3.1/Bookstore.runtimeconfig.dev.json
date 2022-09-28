@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DreamOnline\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DreamOnline\\.nuget\\packages"
+    ]
+  }
+}
