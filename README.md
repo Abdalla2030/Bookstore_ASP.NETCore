@@ -3,8 +3,8 @@
 This project is made in ASP.Net Core with C#.Net and SQL Server on the topic Book Store Project. 
 
 
-
-https://user-images.githubusercontent.com/90295968/192913493-c6600e25-4674-4de5-823d-4943e2b77f9f.mp4
+Watch video for more details :
+https://www.youtube.com/watch?v=Js_S_Pcy950
 
 
 
