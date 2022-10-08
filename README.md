@@ -7,12 +7,6 @@ This project is made in ASP.Net Core with C#.Net and SQL Server on the topic Boo
 [![Watch the video](https://yt-embed.herokuapp.com/embed?v=Js_S_Pcy950)](https://www.youtube.com/watch?v=Js_S_Pcy950)
 
 
-
-
-
-
-
-
 Some Screenshots
 
 ![](Images/authors%20list.jpg)
