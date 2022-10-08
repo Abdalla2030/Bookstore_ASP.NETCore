@@ -4,8 +4,9 @@ This project is made in ASP.Net Core with C#.Net and SQL Server on the topic Boo
 
 
 # Watch video for more details
-[![Everything Is AWESOME](https://i.ytimg.com/vi/Js_S_Pcy950/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb7QwBshdUPDa1RfV32f7iUQWssQ)](https://www.youtube.com/watch?v=Js_S_Pcy950)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=Js_S_Pcy950)
+
+
 
 
 
