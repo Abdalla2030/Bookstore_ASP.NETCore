@@ -3,8 +3,9 @@
 This project is made in ASP.Net Core with C#.Net and SQL Server on the topic Book Store Project. 
 
 
-Watch video for more details :
-https://www.youtube.com/watch?v=Js_S_Pcy950
+# Watch video for more details
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=55_EIL59sIU)](https://www.youtube.com/watch?v=Js_S_Pcy950 "Code With Yd")
+
 
 
 
