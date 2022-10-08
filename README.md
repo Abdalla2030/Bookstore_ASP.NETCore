@@ -4,7 +4,7 @@ This project is made in ASP.Net Core with C#.Net and SQL Server on the topic Boo
 
 
 # Watch video for more details
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=55_EIL59sIU)](https://www.youtube.com/watch?v=Js_S_Pcy950 "Code With Yd")
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=Js_S_Pcy950)](https://www.youtube.com/watch?v=Js_S_Pcy950 "Code With Yd")
 
 
 
